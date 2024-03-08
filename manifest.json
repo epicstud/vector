@@ -1,0 +1,42 @@
+{
+  "format_version" : 2,
+  "header" : {
+    "version" : [
+      1,
+      0,
+      2
+    ],
+    "min_engine_version" : [
+      1,
+      16,
+      0
+    ],
+    "description" : "Vector, a Extremely Advanced Shader",
+    "name" : "Vector",
+    "uuid" : "49e8fa9a-99de-4db3-a065-e9b1d2802ad0"
+  },
+  "dependencies" : [
+    {
+      "version" : [
+        1,
+        0,
+        2
+      ],
+      "uuid" : "47ca5cf3-0c75-4c8b-9264-1e59ec3b73d4"
+    }
+  ],
+  "modules" : [
+    {
+      "version" : [
+        1,
+        0,
+        2
+      ],
+      "description" : "Vector, a Extremely Advanced Shader",
+      "type" : "resources",
+      "uuid" : "099a6b16-f77f-4185-925f-d5921338e551"
+    }
+  ]
+}  }
+  ]
+}
